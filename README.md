@@ -19,15 +19,16 @@
 <img src="https://i.goopics.net/9ahfe7.png" alt="React"  width="150" float="left" margin-left="10px" />
 <img src="https://i.goopics.net/akebfe.png" alt="Vue"  width="150" float="left" margin-left="10px" />
 <img src="https://i.goopics.net/qcbcm3.png" alt="Node"  width="150" float="left" margin-left="10px" />
-<img src="https://i.goopics.net/ghmgf6.png" alt="C-sharp"  width="150" float="left" margin-left="10px" />
+<img src="https://i.goopics.net/5dp8hc.png" alt="C-Sharp"  width="150" float="left" margin-left="10px" />
 <img src="https://i.goopics.net/3f7xu9.png" alt="Bootstrap"  width="150" float="left" margin-left="10px" />
 <img src="https://i.goopics.net/hm25o4.png" alt="Material-UI"  width="150" float="left" margin-left="10px" />
 </p>
 
 <p float="left">
-<img src="https://i.goopics.net/5dp8hc.png" alt="Linux"  width="150" float="left" margin-left="10px" />
+
 <img src="https://i.goopics.net/r4jn5f.png" alt="Github"  width="150" float="left" margin-left="10px" />
-<img src="https://i.goopics.net/cufqh9.png" alt="git"  width="150" float="left" margin-left="10px" />
+<img src="https://i.goopics.net/cufqh9.png" alt="Linux"  width="150" float="left" margin-left="10px" />
+<img src="https://i.goopics.net/ghmgf6.png" alt="Git"  width="150" float="left" margin-left="10px" />
 </p>
 
 ## The best way to know someone :musical_score:  
