@@ -1,12 +1,13 @@
 ### Hi everyone ! :unicorn:
 
-**Who I Am**
+**Who I Am**  
 
-👩‍💻 27 yo - Front-End Developer
-📍 Paris
-😻 Cat Lover
+👩‍💻 27 yo - Front-End Developer  
+📍 Paris  
+😻 Cat Lover  
 
-**My work**
+**My work**  
+
 [Link to Portfolio](https://ilianadagnicourt.github.io/Portefolio/)
 
 **My skills**
