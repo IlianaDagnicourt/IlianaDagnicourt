@@ -8,31 +8,31 @@
 
 **My skills**
 
-<img src="https://goopics.net/i/85h4y3"
+<img src="https://goopics.net/i/85h4y3.png"
      alt="html-icon"
      style="float: left; margin-right: 10px; width: 80px;" />
-<img src="https://goopics.net/i/1xb8lx"
+<img src="https://goopics.net/i/1xb8lx.png"
      alt="CSS-icon"
      style="float: left; margin-right: 100px; width: 80px;" />
-<img src="https://goopics.net/i/rgyfw4"
+<img src="https://goopics.net/i/rgyfw4.png"
      alt="JS-icon"
      style="float: left; margin-right: 200px; width: 80px;" />
-<img src="https://goopics.net/i/9ahfe7"
+<img src="https://goopics.net/i/9ahfe7.png"
      alt="React-icon"
      style="float: left; margin-right: 300px; width: 80px;" />
-<img src="https://goopics.net/i/akebfe"
+<img src="https://goopics.net/i/akebfe.png"
      alt="Vue-icon"
      style="float: left; margin-right: 400px; width: 80px;" />
-<img src="https://goopics.net/i/qcbcm3"
+<img src="https://goopics.net/i/qcbcm3.png"
      alt="node-icon"
      style="float: left; margin-right: 500px; width: 80px;" />
-<img src="https://goopics.net/i/5dp8hc"
+<img src="https://goopics.net/i/5dp8hc.png"
      alt="c-sharp-icon"
      style="float: left; margin-right: 600px; width: 80px;" />
-<img src="https://goopics.net/i/3f7xu9"
+<img src="https://goopics.net/i/3f7xu9.png"
      alt="bootstrap-icon"
      style="float: left; margin-right: 700px; width: 80px;" />
-<img src="https://goopics.net/i/hm25o4"
+<img src="https://goopics.net/i/hm25o4.png"
      alt="material-UI-icon"
      style="float: left; margin-right: 800px; width: 80px;" />
 
