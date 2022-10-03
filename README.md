@@ -1,14 +1,16 @@
 # Hi everyone ! :unicorn:
 
 ## Who I Am
-
+<span style="color: #ba7ff5">
 👩‍💻 Front-End Developer - She  
 📍 Paris  
-😻 Cat Lover  
+😻 Cat Lover
+</span>  
 
 ## My work
 
-[Link to Portfolio](https://ilianadagnicourt.github.io/Portefolio/)
+[Link to Portfolio](https://ilianadagnicourt.github.io/Portefolio/)  
+[Link to my CodePen Showcase](https://codepen.io/AprilBT)
 
 ## My skills  
 
