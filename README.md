@@ -1,4 +1,4 @@
-<H1 style="color: #8cffe2">Hi everyone ! <img src="https://i.goopics.net/r9rw42.gif" style="width : 100px;"></H1>  
+<H1 style="color: #8cffe2">Hi everyone ! <img src="https://i.goopics.net/r9rw42.gif" width="100px"></H1>  
 
 <H2 style="color: #8cffe2">Who I Am 👧🏻</H2>   
 
@@ -9,8 +9,8 @@
 
 <H2 style="color: #8cffe2">My work 💻</H2>  
 
-<a href="https://ilianadagnicourt.github.io/Portefolio/" style="color: #e5adff;">Link To My Portfolio</a>  
-<a href="https://codepen.io/AprilBT" style="color: #e5adff;">Click to see my CodePen Showcase</a>  
+<a href="https://ilianadagnicourt.github.io/Portefolio/" color="#e5adff;">Link To My Portfolio</a>  
+<a href="https://codepen.io/AprilBT" color="#e5adff;">Click to see my CodePen Showcase</a>  
  <br />
 <H2 style="color: #8cffe2">My skills 🏆</H2>   
 
