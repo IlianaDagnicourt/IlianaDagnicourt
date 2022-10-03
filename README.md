@@ -1,5 +1,19 @@
 ### Hi everyone ! :unicorn:
 
+**Who Am I**
+
+👩‍💻 27 yo - Front-End Developer
+📍 Paris
+😻 Cat Lover
+
+**My skills**
+
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+     alt="html-icon"
+     style="float: left; margin-right: 10px; width: 80px;" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+     alt="html-icon"
+     style="float: left; margin-right: 100px; width: 80px;" />
 
 
 <!--
@@ -16,5 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### The best way to know someone :musical_score:
 [![Spotify](https://novatorem-1dib-ilianadagnicourt.vercel.app/api/spotify)](https://open.spotify.com/user/fd0ad6bd7aa54f6281dcf5b81c7f4649)
