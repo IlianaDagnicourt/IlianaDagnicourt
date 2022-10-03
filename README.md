@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone ! :unicorn:
+
+
 
 <!--
 **IlianaDagnicourt/IlianaDagnicourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=91a96ieov9eznz2wrpxro48a9&count={6})
+[![Spotify](https://novatorem-1dib-ilianadagnicourt.vercel.app/api/spotify)](https://open.spotify.com/user/fd0ad6bd7aa54f6281dcf5b81c7f4649)
