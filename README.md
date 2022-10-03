@@ -6,7 +6,6 @@
 📍 Paris, France  
 😻 Cat Lover  
 <br />
-[![Image]()](https://goopics.net/i/r9rw42)
 
 <H2 style="color: #8cffe2">My work 💻</H2>  
 
