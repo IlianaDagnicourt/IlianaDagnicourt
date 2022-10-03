@@ -1,11 +1,12 @@
-<H1 style="color: #8cffe2">Hi everyone ! 🦄🌈</H1>  
+<H1 style="color: #8cffe2">Hi everyone ! <img src="https://i.goopics.net/r9rw42.gif" style="width : 100px;"></H1>  
 
-<H2 style="color: #8cffe2">Who Am I 👧🏻</H2>   
+<H2 style="color: #8cffe2">Who I Am 👧🏻</H2>   
 
 👩‍💻 Front-End Developer - She  
 📍 Paris, France  
 😻 Cat Lover  
 <br />
+[![Image]()](https://goopics.net/i/r9rw42)
 
 <H2 style="color: #8cffe2">My work 💻</H2>  
 
