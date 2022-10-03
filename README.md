@@ -36,8 +36,7 @@
 
 <H2 style="color: #8cffe2">The best way to know someone 🎶</H2>  
 
-[![Spotify](https://novatorem-1dib-ilianadagnicourt.vercel.app/api/spotify)](https://open.spotify.com/user/fd0ad6bd7aa54f6281dcf5b81c7f4649)
-<br />
+[![Spotify](https://novatorem-1dib-ilianadagnicourt.vercel.app/api/spotify)](https://open.spotify.com/user/fd0ad6bd7aa54f6281dcf5b81c7f4649)  
 
 <H2 style="color: #8cffe2">Contact Me 🤙🏻</H2> 
 You can reach me by email <a href="https://ilianadagnicourt.github.io/Portefolio/#contact" style="color: #e5adff;">here</a> or feel free to DM me on LinkedIn by clicking <a href="https://www.linkedin.com/in/iliana-dagnicourt/" style="color: #e5adff;">there</a> !
