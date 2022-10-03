@@ -1,6 +1,6 @@
 ### Hi everyone ! :unicorn:
 
-**Who Am I**
+**Who I Am**
 
 👩‍💻 27 yo - Front-End Developer
 📍 Paris
@@ -8,27 +8,33 @@
 
 **My skills**
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+<img src="https://goopics.net/i/85h4y3"
      alt="html-icon"
      style="float: left; margin-right: 10px; width: 80px;" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-     alt="html-icon"
+<img src="https://goopics.net/i/1xb8lx"
+     alt="CSS-icon"
      style="float: left; margin-right: 100px; width: 80px;" />
+<img src="https://goopics.net/i/rgyfw4"
+     alt="JS-icon"
+     style="float: left; margin-right: 200px; width: 80px;" />
+<img src="https://goopics.net/i/9ahfe7"
+     alt="React-icon"
+     style="float: left; margin-right: 300px; width: 80px;" />
+<img src="https://goopics.net/i/akebfe"
+     alt="Vue-icon"
+     style="float: left; margin-right: 400px; width: 80px;" />
+<img src="https://goopics.net/i/qcbcm3"
+     alt="node-icon"
+     style="float: left; margin-right: 500px; width: 80px;" />
+<img src="https://goopics.net/i/5dp8hc"
+     alt="c-sharp-icon"
+     style="float: left; margin-right: 600px; width: 80px;" />
+<img src="https://goopics.net/i/3f7xu9"
+     alt="bootstrap-icon"
+     style="float: left; margin-right: 700px; width: 80px;" />
+<img src="https://goopics.net/i/hm25o4"
+     alt="material-UI-icon"
+     style="float: left; margin-right: 800px; width: 80px;" />
 
-
-<!--
-**IlianaDagnicourt/IlianaDagnicourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### The best way to know someone :musical_score:
 [![Spotify](https://novatorem-1dib-ilianadagnicourt.vercel.app/api/spotify)](https://open.spotify.com/user/fd0ad6bd7aa54f6281dcf5b81c7f4649)
