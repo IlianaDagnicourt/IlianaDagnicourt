@@ -1,18 +1,18 @@
-# Hi everyone ! :unicorn:
+<H1 style="color: #8cffe2">Hi everyone ! 🦄🌈</H1>  
 
-## Who I Am
-<span style="color: #ba7ff5">
+<H2 style="color: #8cffe2">Who Am I 👧🏻</H2>   
+
 👩‍💻 Front-End Developer - She  
-📍 Paris  
-😻 Cat Lover
-</span>  
+📍 Paris, France  
+😻 Cat Lover  
+<br />
 
-## My work
+<H2 style="color: #8cffe2">My work 💻</H2>  
 
-[Link to Portfolio](https://ilianadagnicourt.github.io/Portefolio/)  
-[Link to my CodePen Showcase](https://codepen.io/AprilBT)
-
-## My skills  
+<a href="https://ilianadagnicourt.github.io/Portefolio/" style="color: #e5adff;">Link To My Portfolio</a>  
+<a href="https://codepen.io/AprilBT" style="color: #e5adff;">Click to see my CodePen Showcase</a>  
+ <br />
+<H2 style="color: #8cffe2">My skills 🏆</H2>   
 
 <p float="left">
 <img src="https://i.goopics.net/85h4y3.png" alt="HTML" width="150" float="left" margin-left="10px"/>
@@ -32,7 +32,12 @@
 <img src="https://i.goopics.net/cufqh9.png" alt="Linux"  width="150" float="left" margin-left="10px" />
 <img src="https://i.goopics.net/ghmgf6.png" alt="Git"  width="150" float="left" margin-left="10px" />
 </p>
+<br />
 
-## The best way to know someone :musical_score:  
+<H2 style="color: #8cffe2">The best way to know someone 🎶</H2>  
 
 [![Spotify](https://novatorem-1dib-ilianadagnicourt.vercel.app/api/spotify)](https://open.spotify.com/user/fd0ad6bd7aa54f6281dcf5b81c7f4649)
+<br />
+
+<H2 style="color: #8cffe2">Contact Me 🤙🏻</H2> 
+You can reach me by email <a href="https://ilianadagnicourt.github.io/Portefolio/#contact" style="color: #e5adff;">here</a> or feel free to DM me on LinkedIn by clicking <a href="https://www.linkedin.com/in/iliana-dagnicourt/" style="color: #e5adff;">there</a> !
