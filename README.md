@@ -2,7 +2,7 @@
 
 **Who I Am**  
 
-👩‍💻 27 yo - Front-End Developer  
+👩‍💻 Front-End Developer - She - 
 📍 Paris  
 😻 Cat Lover  
 
@@ -10,22 +10,22 @@
 
 [Link to Portfolio](https://ilianadagnicourt.github.io/Portefolio/)
 
-**My skills**
+**My skills**  
 
-[![Image](https://i.goopics.net/85h4y3.png)](https://goopics.net/i/85h4y3)
-[![Image](https://i.goopics.net/1xb8lx.png)](https://goopics.net/i/1xb8lx)
-[![Image](https://i.goopics.net/rgyfw4.png)](https://goopics.net/i/rgyfw4)
-[![Image](https://i.goopics.net/9ahfe7.png)](https://goopics.net/i/9ahfe7)
-[![Image](https://i.goopics.net/akebfe.png)](https://goopics.net/i/akebfe)
-[![Image](https://i.goopics.net/qcbcm3.png)](https://goopics.net/i/qcbcm3)
-[![Image](https://i.goopics.net/3f7xu9.png)](https://goopics.net/i/3f7xu9)
-[![Image](https://i.goopics.net/hm25o4.png)](https://goopics.net/i/hm25o4)
-[![Image](https://i.goopics.net/5dp8hc.png)](https://goopics.net/i/5dp8hc)
-[![Image](https://i.goopics.net/r4jn5f.png)](https://goopics.net/i/r4jn5f)
-[![Image](https://i.goopics.net/ghmgf6.png)](https://goopics.net/i/ghmgf6)
-[![Image](https://i.goopics.net/cufqh9.png)](https://goopics.net/i/cufqh9)
-
-<img src="https://i.goopics.net/85h4y3.png" alt="Kitten" title="A cute kitten" width="80" />
+<img src="https://i.goopics.net/85h4y3.png" alt="HTML" width="120" />
+<img src="https://i.goopics.net/1xb8lx.png" alt="CSS"  width="120" />
+<img src="https://i.goopics.net/rgyfw4.png" alt="JavaScript"  width="120" />
+<img src="https://i.goopics.net/9ahfe7.png" alt="React"  width="120" />
+<img src="https://i.goopics.net/akebfe.png" alt="Vue"  width="120" />
+<img src="https://i.goopics.net/qcbcm3.png" alt="Node"  width="120" />
+<img src="https://i.goopics.net/cufqh9.png" alt="C-Sharp"  width="120" />
+<img src="https://i.goopics.net/3f7xu9.png" alt="Bootstrap"  width="120" />
+<img src="https://i.goopics.net/hm25o4.png" alt="Material-UI"  width="120" />
+<br />
+<br />
+<img src="https://i.goopics.net/5dp8hc.png" alt="Linux"  width="120" />
+<img src="https://i.goopics.net/r4jn5f.png" alt="Github"  width="120" />
+<img src="https://i.goopics.net/ghmgf6.png" alt="Git"  width="120" />
 
 
 ### The best way to know someone :musical_score:
