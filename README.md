@@ -37,7 +37,7 @@
 </p>
 <br />
 
-<H2 style="color: #8cffe2">What I'm listenening right now: <img src="https://i.goopics.net/yfd26g.gif" height="90px"></H2>  
+<H2 style="color: #8cffe2">What I'm listening to right now: <img src="https://i.goopics.net/yfd26g.gif" height="90px"></H2>  
 
 [![Spotify](https://novatorem-1dib-ilianadagnicourt.vercel.app/api/spotify)](https://open.spotify.com/user/fd0ad6bd7aa54f6281dcf5b81c7f4649)  
 
