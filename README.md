@@ -3,7 +3,7 @@
 <H2 style="color: #8cffe2">Who I Am <img src="https://i.goopics.net/y3g8kc.gif" height="80"></h2>  
 
 👩 Iliana, 27 yo  
-👩‍💻 Front-End Developer 
+👩‍💻 Front-End Developer  
 📍 Paris, France  
 😻 Cat Lover  
 💖 Creative Coding, Accessibility
