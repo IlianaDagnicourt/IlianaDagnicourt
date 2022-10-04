@@ -1,10 +1,12 @@
 <H1 style="color: #8cffe2">Hi everyone ! <img src="https://i.goopics.net/r9rw42.gif" width="150px"></H1>  
 
-<H2 style="color: #8cffe2">Who I Am <img src="https://i.goopics.net/y3g8kc.gif" height="80"></h2>
+<H2 style="color: #8cffe2">Who I Am <img src="https://i.goopics.net/y3g8kc.gif" height="80"></h2>  
 
-👩‍💻 Front-End Developer - She  
+👩 Iliana, 27 yo  
+👩‍💻 Front-End Developer 
 📍 Paris, France  
 😻 Cat Lover  
+💖 Creative Coding, Accessibility
 <br />
 
 
